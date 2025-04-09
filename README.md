@@ -38,6 +38,8 @@ VITE_WEATHER_API_KEY=0381ac310e7125b124fedfd3d6234893
 
 
 API Rate Limits
+
+
 Plan	Limit
 Free Tier	60 API calls per minute
 Paid Plans	Higher limits based on subscription
