@@ -31,8 +31,12 @@ API Integration Details
 This app uses the OpenWeatherMap API to fetch real-time weather data.
 
 🔑 API Key Setup
-Sign up at https://openweathermap.org/api
+Sign up at https://openweathermap.org/api 
+
+
 Get your free API key from the API Keys section in your account
+
+
 Add the key to your .env file:
 VITE_WEATHER_API_KEY=0381ac310e7125b124fedfd3d6234893
 
@@ -41,5 +45,7 @@ API Rate Limits
 
 
 Plan	Limit
-Free Tier	60 API calls per minute
+Free Tier	60 API calls per minute 
+
+
 Paid Plans	Higher limits based on subscription
